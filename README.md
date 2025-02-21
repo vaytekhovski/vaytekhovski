@@ -89,7 +89,7 @@ Project 2: Electronic Price Tag Management System
 
 ## Key Projects
 
-### **[Public GitHub Repositories](https://github.com/vaytekhovski)**
+### **[Public GitHub Repositories](https://github.com/vaytekhovski?tab=repositories)**
 I maintain several public repositories showcasing a variety of projects that demonstrate my growth as a developer. They span various stages of my career, from early-stage code to mature, production-level solutions.
 
 Feel free to explore these repositories to get an insight into my progression and coding style.
