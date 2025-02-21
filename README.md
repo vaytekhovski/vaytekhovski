@@ -50,6 +50,7 @@ Project 1: Dynamic Employee Survey Application
 - Developed an API for flexible extraction and filtering of survey data, improving the analysis and processing of results.
 - Configured CI/CD processes using GitLab, improving code quality and speeding up the development process.
 - Technologies: AWS, .NET Core 6, React (TS), PostgreSQL, GraphQL.
+
 Project 2: Job Search Platform
 - Participated in the migration of a legacy job search platform from ASP.NET pages to a modern stack using React (TypeScript).
 - Worked on optimizing the frontend part, improving page load speed and user interaction.
