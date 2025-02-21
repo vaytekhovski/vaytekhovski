@@ -77,6 +77,7 @@ Project 1: CRM-system for managing a trading bot
 - Developed interfaces for administrators to configure and manage trade parameters, which increased the flexibility of the system.
 - Implemented mechanisms for generating reports, allowing users to track trade performance and get detailed statistics.
 - Worked with external services to retrieve and process market data, improving the accuracy of the bot's forecasts and operations.
+
 Project 2: Electronic Price Tag Management System
 - Developed a system to manage electronic price tags based on e-ink displays, with the ability to update information by ID or change prices in a virtual store.
 - I configured a server on Raspberry Pi, which interacted with the displays through the local network, ensuring smooth operation of the system in the store.
