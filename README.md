@@ -1,6 +1,6 @@
 # Arseni Vaytekhovski
 
-**Senior .NET Developer** | **Software Engineer**  
+**.NET Developer** | **Software Engineer**  
 Location: Minsk, Belarus  
 Email: [arseniyvoytehovskiy@gmail.com](mailto:arseniyvoytehovskiy@gmail.com) or [arseniyvoytehovskiy@hotmail.com](mailto:arseniyvoytehovskiy@hotmail.com)  
 LinkedIn: [linkedin.com/in/vaytekhovski](https://www.linkedin.com/in/vaytekhovski)  
@@ -10,7 +10,7 @@ GitHub: [github.com/vaytekhovski](https://github.com/vaytekhovski)
 
 ## Summary
 
-I am a Senior .NET Developer with over 6 years of experience building scalable, high-performance systems and delivering complex backend solutions. I specialize in .NET (C#), cloud technologies (AWS), and building maintainable architectures using modern software engineering practices. My expertise spans from designing clean and efficient APIs to optimizing large-scale applications. I am passionate about solving challenging problems, driving technical improvements, and mentoring junior developers. Through my contributions to open-source and personal projects, I constantly refine my skills and keep up with the latest industry trends.
+I am a .NET Developer with over 6 years of experience building scalable, high-performance systems and delivering complex backend solutions. I specialize in .NET (C#), cloud technologies (AWS), and building maintainable architectures using modern software engineering practices. My expertise spans from designing clean and efficient APIs to optimizing large-scale applications. I am passionate about solving challenging problems, driving technical improvements, and mentoring junior developers. Through my contributions to open-source and personal projects, I constantly refine my skills and keep up with the latest industry trends.
 
 ---
 
